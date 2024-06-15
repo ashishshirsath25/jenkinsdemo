@@ -4,7 +4,7 @@
   <artifactId>OpencartV121</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <build>
+  <demobuild>
 	 <pluginManagement>
 		 
 		 <plugins>
@@ -34,7 +34,7 @@
  
  
  
-  <dependencies>
+  < demo dependencies>
 	  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 	<dependency>
 	    <groupId>org.seleniumhq.selenium</groupId>
